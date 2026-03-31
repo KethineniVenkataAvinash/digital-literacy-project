@@ -1,6 +1,6 @@
 # Digital Literacy Project
 
-**Student Details:**
+**Details:**
 * **Name:** Kethineni Venkata Avinash 
 * **Registration Number:** 25BAI10364 
 * **Branch:** B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning)
@@ -14,7 +14,7 @@ Welcome to my Digital Literacy Portfolio. As a newly selected Student Digital Am
 
 This repository serves as both a submission for the CSE0001 course and a practical, living toolkit. Through five structured modules, this project documents my hands-on experience in creating visual awareness campaigns, establishing a professional footprint tailored for the tech industry, mastering collaborative coding environments, and understanding the psychological mechanics of modern cybercrimes. Ultimately, this portfolio acts as a personal milestone in my digital journey and a comprehensive guide to help my batchmates become secure, responsible digital citizens.
 
-* **Repository Structure**
+**Repository Structure**
 ``` 
 digital-literacy-project/
 │
@@ -73,7 +73,7 @@ Canva Link: https://canva.link/wet1w3ztrkv7ki7
 ### Task 2: Building a Student Digital Portfolio
 A professional digital presence is mandatory in today's highly competitive tech industry. I established my foundational online footprint across GitHub, LinkedIn, Kaggle, Stack Overflow, and ResearchGate. As an AI and Machine Learning student, I focused specifically on tailoring my GitHub README and Kaggle profiles to host my future Python projects, track version control, and participate in data science competitions, thereby treating these platforms as a living resume for future internship opportunities.
 
-GitHub Username: 
+GitHub Username: KethineniVenkataAvinash
 
 LinkedIn Profile: https://www.linkedin.com/in/kethinenivenkataavinash/
 
@@ -95,3 +95,6 @@ Poor digital communication can severely damage a student's academic and professi
 
 ### Task 5: Cybercrime Awareness & Prevention
 This module focuses on safeguarding mental and emotional safety online. I conducted a comprehensive case study on Cyberbullying, detailing how the perceived anonymity of the internet allows harassment to escalate rapidly. To combat this, I developed an actionable prevention checklist that empowers students to intervene, block malicious accounts, and officially report abuse to the National Cyber Crime Portal (cybercrime.gov.in) and the 1930 Helpline.
+
+## Summary
+This project is a comprehensive, practical toolkit created by me as a Student Digital Ambassador. Designed specifically to help peers transition safely from high school to an independent college environment, the portfolio establishes a strong foundation in online safety, professional communication, and digital identity building.
